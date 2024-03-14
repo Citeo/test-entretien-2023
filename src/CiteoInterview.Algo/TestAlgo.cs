@@ -16,4 +16,9 @@ public class TestAlgo
     {
         throw new NotImplementedException();
     }
+    
+    public int Test4(string[] input)
+    {
+        throw new NotImplementedException();
+    }
 }
